@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>Pagina Principal</title>
+    <title>Cursos</title>
     <meta charset="utf-8">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
     <link rel="stylesheet" type="text/CSS" href="CSS/Style.css"> 
@@ -13,10 +13,10 @@
     <script type="text/CSS" src="Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-grid.min.css"></script>
     <script type="text/CSS" src="Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap.min.css"></script>
     <script type="text/CSS" src="Bootstrap/bootstrap-5.0.0-beta2-dist/css/bootstrap-reboot.min.css"></script>
-    <meta name="description" content="Bem vindo ao meu portifolio!" />
+    <meta name="description" content="Cursos que finalizei ou estão para finalizar" />
     <meta name="author" content="Robson Diego Andrade de Oliveira" />
 </head>
-  <body class="main-body">
+  <body>
       <!-- PROBLEMA NO BUTTON, ELE ABRE MAS NAO FECHA -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
@@ -51,10 +51,52 @@
           </div>
         </div>
     </nav>
-    <img class="img-eu" src="IMG/foto.jpg" alt="Foto de Robson Diego Andrade de Oliveira">
-    <div class="txtcentro">
-     <h1 class="test">Robson Diego Andrade de Oliveira</h1>
-     <p>Web Developer</p>
+    <div class="div-h1">
+        <center><h1 class="main-h1">Cursos</h1></center>    
+    </div>
+    <div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active" data-bs-interval="10000">
+          <img src="IMG/Cert1.png" class="d-block w-100" alt="Certificado de 'Bem vindo a DIO'">
+          <div class="carousel-caption d-none d-md-block">
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="2000">
+          <img src="IMG/Cert2.png" class="d-block w-100" alt="Certificado de 'Logica de programação essencial'">
+          <div class="carousel-caption d-none d-md-block">
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="IMG/Cert3.png" class="d-block w-100" alt="Certificado de 'Introdução ao git e github'">
+          <div class="carousel-caption d-none d-md-block">
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="IMG/Cert4.png" class="d-block w-100" alt="Certificado de 'Introdução a criação de websites com HTML 5 e CSS 3'">
+          <div class="carousel-caption d-none d-md-block">
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="IMG/Cert5.png" class="d-block w-100" alt="Certificado de 'Programação para internet com JavaScript'">
+          <div class="carousel-caption d-none d-md-block">
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
     </div>
     <div class="social-media">
       <img class="facebook" src="IMG/Icon_fb.png" alt="Facebook" onclick="redirecionarFb()">
