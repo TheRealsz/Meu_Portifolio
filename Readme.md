@@ -20,12 +20,12 @@ Projeto proprio onde é mostrado um portifolio meu, com diversas informações s
  
 * Pagina Principal
 * Sobre mim
-* Formação (Em construção)
-* Cursos (Em construção)
-* Trabalhos (Em construção)
-* Experiencias (Em construção)
-* Habilidades (Em construção)
-* Contato (Em construção)
+* Formação 
+* Cursos 
+* Trabalhos 
+* Experiencias 
+* Habilidades 
+* Contato 
 
 ### Pastas
 
@@ -33,6 +33,7 @@ Projeto proprio onde é mostrado um portifolio meu, com diversas informações s
 * CSS
 * IMG
 * JS
+* Font
 
 ## Autor
 

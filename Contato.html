@@ -54,22 +54,24 @@
         <center><h1 class="main-h1">Contato</h1></center>    
     </div>
     </br>
-    <div class="mb-3">
-      <label for="email" class="form-label">Email</label>
-      <input type="email" class="form-control" id="emailID" placeholder="name@example.com" style="width: 500px;">
-      </br>
-      <label for="fullName" class="form-label">Nome completo</label>
-      <input type="text" class="form-control" id="fullNameID" placeholder="Fulano da Silva Pereira" style="width: 700px;">
-    </div>
-    <div class="mb-3">
-      <label for="telefone" class="form-label">Telefone</label>
-      <input type="tel" class="form-control" id="telefoneID" placeholder="(XX)XXXXXXXXX" style="width: 500px;">
-      </br>
-      <label for="msg" class="form-label">Mensagem</label>
-      <textarea class="form-control" id="msgID" rows="5"></textarea>
-      </br>
-      <button type="button" class="btn btn-primary">Enviar</button>
-    </div>
+    <form>
+      <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input type="email" class="form-control" id="emailID" placeholder="name@example.com" style="width: 500px;" required>
+        </br>
+        <label for="fullName" class="form-label">Nome completo</label>
+        <input type="text" class="form-control" id="fullNameID" placeholder="Fulano da Silva Pereira" style="width: 700px;" required >
+      </div>
+      <div class="mb-3">
+        <label for="telefone" class="form-label">Telefone</label>
+        <input type="tel" class="form-control" id="telefoneID" placeholder="(XX)XXXXXXXXX" style="width: 500px;" required>
+        </br>
+        <label for="msg" class="form-label">Mensagem</label>
+        <textarea class="form-control" id="msgID" rows="5" required></textarea>
+        </br>
+        <button type="submit" class="btn btn-primary" onclick= "clique()">Enviar</button>
+      </div>
+    </form>
     <div class="social-media">
         <img class="facebook" src="IMG/Icon_fb.png" alt="Facebook" onclick="redirecionarFb()">
         <img class="insta" src="IMG/Icon_insta.png" alt="Instagram" onclick="redirecionarIg()">
