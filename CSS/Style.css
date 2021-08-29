@@ -409,6 +409,12 @@
     position: relative;
     left: 10%;
 }
+
+.test-card{
+    width: 903px;
+
+}
+
 /* Estudar grid e display CSS */
 /* Reestruturar cada CSS apontando para uma pag, e fazer um main */
 /* Reestruturar utilizando conceitos de RSCSS */
