@@ -1,3 +1,7 @@
+function redirecionarGit(){
+    window.open("https://github.com/TheRealRobinho")
+}
+
 function redirecionarFb(){
     window.open("https://www.facebook.com/robsondiego.andrade")
 }
@@ -11,8 +15,10 @@ function redirecionarTt(){
 }
 
 function redirecionarIn(){
-    window.open("https://www.linkedin.com/in/robson-diego-andrade-de-oliveira-071b53204/")
+    window.open("https://br.linkedin.com/in/robsondiegoandrade")
 }
+
+
 
 function clique() {
     
