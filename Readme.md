@@ -1,40 +1,50 @@
-Status: Em construção
+
+<h1 align="center">
+  <p>Meu portifolio</p>
+</h1>
+
+> Projeto feito para estudo e pratica do conhecimento adquirido ate o momento
+
+# Índice 
+
+* [Introdução](##Introdução)
+* [Tecnologias](##Tecnologias)
+* [Conteudo](##Conteudo)
+* [Contato](##Contato)
+* [Status do Projeto](##Status-do-projeto)
+* [Autores](##Autores)
 
 
-# Meu Portifolio
-
-## Descrição do projeto
-
-Projeto proprio onde é mostrado um portifolio meu, com diversas informações sobre mim.
+## Introdução
+Projeto com foco em me apresentar, tendo diversas informações profissionais.
 
 ## Tecnologias
 
 * HTML
 * CSS
-* Bootstrap
 * Javascript
+* Bootstrap
 
 ## Conteudo
 
-### Site
- 
-* Pagina Principal
-* Sobre mim
-* Formação 
-* Cursos 
-* Trabalhos 
-* Experiencias 
-* Habilidades 
-* Contato 
+> O projeto é separado por paginas, sendo elas:
 
-### Pastas
+- `Pagina inicial`: Apresenta meu nome e uma foto
+- `Sobre mim`: Informações academicas e algumas pessoais
+- `Formação`: Apresenta os locais no qual fizeram parte da minha vida academica
+- `Cursos`: Slide no qual há os certificados dos cursos ja feitos
+- `Trabalhos`: Cards mostrando todos os projetos que ja produzi, tendo uma breve introdução de cada um deles
+- `Experiencia`: Pagina dedicada a mostrar as experiencias profissionais/academicas de relevancia
+- `Habilidades`: Apresenta as tecnologias e as areas nas quais tenho conhecimento
+- `Contato`: Pagina para quem quer fazer contato comigo
 
-* Bootstrap
-* CSS
-* IMG
-* JS
-* Font
+> Em todas as paginas existe as midias sociais ao lado
 
-## Autor
+## Contato
+Temos algumas formas de contato, elas podem ser encontradas [aqui](https://github.com/TheRealRobinho)
 
-Robson Diego Andrade de Oliveira
+## Status do projeto
+:construction: Projeto em construção :construction:
+
+## Autores
+[<img src="https://avatars.githubusercontent.com/u/77800184?v=4" width=185><br><sub>Robson Diego Andrade de Oliveira</sub>](https://github.com/TheRealRobinho)
