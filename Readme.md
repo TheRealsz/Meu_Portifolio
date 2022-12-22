@@ -12,6 +12,7 @@
 * [Conteudo](##Conteudo)
 * [Contato](##Contato)
 * [Status do Projeto](##Status-do-projeto)
+* [Melhorias](##Melhorias)
 * [Autores](##Autores)
 
 
