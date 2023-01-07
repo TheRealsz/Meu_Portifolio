@@ -12,7 +12,6 @@
 * [Conteudo](##Conteudo)
 * [Contato](##Contato)
 * [Status do Projeto](##Status-do-projeto)
-* [Melhorias](##Melhorias)
 * [Autores](##Autores)
 
 
@@ -45,10 +44,7 @@ Projeto com foco em me apresentar, tendo diversas informações profissionais.
 Temos algumas formas de contato, elas podem ser encontradas [aqui](https://github.com/TheRealRobinho)
 
 ## Status do projeto
-:construction: Projeto em construção :construction:
-
-## Melhorias
-Logo que possivel, atualizarei todas as paginas, tanto em conteudo como em design e funcionalidades, trazendo todas as informações novas para dentro do portifolio
+:white_check_mark: Finalizado :white_check_mark:
 
 ## Autores
 [<img src="https://avatars.githubusercontent.com/u/77800184?v=4" width=185><br><sub>Robson Diego Andrade de Oliveira</sub>](https://github.com/TheRealRobinho)
