@@ -3,13 +3,13 @@
   <p>Meu portifolio</p>
 </h1>
 
-> Projeto feito para estudo e pratica do conhecimento adquirido ate o momento
+> Projeto feito para estudo e prática do conhecimento adquirido ate o momento.
 
 # Índice 
 
 * [Introdução](##Introdução)
 * [Tecnologias](##Tecnologias)
-* [Conteudo](##Conteudo)
+* [Conteúdo](##Conteúdo)
 * [Contato](##Contato)
 * [Status do Projeto](##Status-do-projeto)
 * [Autores](##Autores)
@@ -25,20 +25,20 @@ Projeto com foco em me apresentar, tendo diversas informações profissionais.
 * Javascript
 * Bootstrap
 
-## Conteudo
+## Conteúdo
 
 > O projeto é separado por paginas, sendo elas:
 
 - `Pagina inicial`: Apresenta meu nome e uma foto
-- `Sobre mim`: Informações academicas e algumas pessoais
-- `Formação`: Apresenta os locais no qual fizeram parte da minha vida academica
-- `Cursos`: Slide no qual há os certificados dos cursos ja feitos
-- `Trabalhos`: Cards mostrando todos os projetos que ja produzi, tendo uma breve introdução de cada um deles
-- `Experiencia`: Pagina dedicada a mostrar as experiencias profissionais/academicas de relevancia
-- `Habilidades`: Apresenta as tecnologias e as areas nas quais tenho conhecimento
+- `Sobre mim`: Informações acadêmicas e algumas pessoais
+- `Formação`: Apresenta os locais no qual fizeram parte da minha vida acadêmica
+- `Cursos`: Slide no qual há os certificados dos cursos já  feitos
+- `Trabalhos`: Cards mostrando todos os projetos que já  produzi, tendo uma breve introdução de cada um deles
+- `Experiencia`: Pagina dedicada a mostrar as experiências profissionais/acadêmicas de relevância
+- `Habilidades`: Apresenta as tecnologias e as áreas nas quais tenho conhecimento
 - `Contato`: Pagina para quem quer fazer contato comigo
 
-> Em todas as paginas existe as midias sociais ao lado
+> Em todas as paginas existem as mídias sociais ao lado
 
 ## Contato
 Temos algumas formas de contato, elas podem ser encontradas [aqui](https://github.com/TheRealRobinho)
